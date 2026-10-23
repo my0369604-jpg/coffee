@@ -55,7 +55,7 @@ function FtcoMenu() {
           <div className="row justify-content-center mb-5">
             <div className="col-md-7 heading-section text-center">
               <span className="subheading">Discover</span>
-              <h2 className="mb-4 text-light">Our Products</h2>
+              <h2 className="mb-4 style={{color:'#6c6131',}}">Our Products</h2>
               <p>
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live the blind texts.

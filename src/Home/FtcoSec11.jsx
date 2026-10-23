@@ -8,7 +8,7 @@ function FtcoSec11() {
   <div className="container">
     <div className="row justify-content-center mb-5 pb-3">
       <div className="col-md-7 heading-section text-center ftco-animate">    {/*ftco-animate*/}
-        <h2 className="mb-4 text-light">Recent from blog</h2>
+        <h2 className="mb-4" style={{color:'#9e8929',}} >Recent from blog</h2>
         <p>
           Far far away, behind the word mountains, far from the countries
           Vokalia and Consonantia, there live the blind texts.

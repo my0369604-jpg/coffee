@@ -16,7 +16,7 @@ function FtcoAbout() {
         <h2 className="mb-4 text-light">Our Story</h2>
       </div>
       <div>
-        <p>
+        <p style={{color:'#9e8929',}}>
           On her way she met a copy. The copy warned the Little Blind Text, that
           where it came from it would have been rewritten a thousand times and
           everything that was left from its origin would be the word "and" and
